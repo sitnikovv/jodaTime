@@ -1,7 +1,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/sitnikovv/jodaTime.svg)](https://pkg.go.dev/github.com/sitnikovv/jodaTime)
-[![Build Status](https://travis-ci.org/sitnikovv/jodaTime.svg)](https://travis-ci.org/sitnikovv/jodaTime)
+[![Build Status](https://app.travis-ci.com/sitnikovv/jodaTime.svg?branch=master)](https://app.travis-ci.com/sitnikovv/jodaTime)
 [![Coverage Status](https://coveralls.io/repos/github/sitnikovv/jodaTime/badge.svg?branch=master)](https://coveralls.io/github/sitnikovv/jodaTime?branch=master)
-[![Go Report Card](http://goreportcard.com/badge/sitnikovv/jodaTime)](http:/goreportcard.com/report/sitnikovv/jodaTime)
+[![Go Report Card](https://goreportcard.com/badge/github.com/sitnikovv/jodaTime)](https://goreportcard.com/report/github.com/sitnikovv/jodaTime)
 
 # JodaTime
 forked from https://github.com/vjeantet/jodaTime
