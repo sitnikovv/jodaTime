@@ -4,6 +4,7 @@
 [![Go Report Card](http://goreportcard.com/badge/sitnikovv/jodaTime)](http:/goreportcard.com/report/sitnikovv/jodaTime)
 
 # JodaTime
+forked from https://github.com/vjeantet/jodaTime
 * Format golang date time.Time with joda layout
 * Parse time with joda layout
 
