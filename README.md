@@ -4,9 +4,12 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/sitnikovv/jodaTime)](https://goreportcard.com/report/github.com/sitnikovv/jodaTime)
 
 # JodaTime
-forked from https://github.com/vjeantet/jodaTime
+Forked from https://github.com/vjeantet/jodaTime
 * Format golang date time.Time with joda layout
 * Parse time with joda layout
+
+New
+* Work with nanoseconds (up to 9 fraction of second)
 
 
 reference : [http://joda-time.sourceforge.net/apidocs/org/joda/time/format/DateTimeFormat.html](http://joda-time.sourceforge.net/apidocs/org/joda/time/format/DateTimeFormat.html)
