@@ -1,7 +1,7 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/vjeantet/jodaTime.svg)](https://pkg.go.dev/github.com/vjeantet/jodaTime)
-[![Build Status](https://travis-ci.org/vjeantet/jodaTime.svg)](https://travis-ci.org/vjeantet/jodaTime)
-[![Coverage Status](https://coveralls.io/repos/github/vjeantet/jodaTime/badge.svg?branch=master)](https://coveralls.io/github/vjeantet/jodaTime?branch=master)
-[![Go Report Card](http://goreportcard.com/badge/vjeantet/jodaTime)](http:/goreportcard.com/report/vjeantet/jodaTime)
+[![Go Reference](https://pkg.go.dev/badge/github.com/sitnikovv/jodaTime.svg)](https://pkg.go.dev/github.com/sitnikovv/jodaTime)
+[![Build Status](https://travis-ci.org/sitnikovv/jodaTime.svg)](https://travis-ci.org/sitnikovv/jodaTime)
+[![Coverage Status](https://coveralls.io/repos/github/sitnikovv/jodaTime/badge.svg?branch=master)](https://coveralls.io/github/sitnikovv/jodaTime?branch=master)
+[![Go Report Card](http://goreportcard.com/badge/sitnikovv/jodaTime)](http:/goreportcard.com/report/sitnikovv/jodaTime)
 
 # JodaTime
 * Format golang date time.Time with joda layout
@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/vjeantet/jodaTime"
+	"github.com/sitnikovv/jodaTime"
 )
 
 func main() {
@@ -57,7 +57,7 @@ func main() {
  k       clockhour of day (1~24)      number        24
  m       minute of hour               number        30
  s       second of minute             number        55
- S       fraction of second           number        978
+ S       fraction of second           number        987654321
 
  z       time zone                    text          Pacific Standard Time; PST
  Z       time zone offset/id          zone          -0800; -08:00; America/Los_Angeles

@@ -1,4 +1,4 @@
-module github.com/vjeantet/jodaTime
+module github.com/sitnikovv/jodaTime
 
 go 1.15
 
